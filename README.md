@@ -4,8 +4,7 @@ The first announcement of the outbreak COVID-19 was made on December 31, 2019 by
 The World Health Organization has declared COVID-19 as Pandemic on March 11, 2020. 
 
 The dashboard created shows the distribution of total confirmed cases including recovered, death and active cases 
-
-
+![Picture1](https://user-images.githubusercontent.com/43942029/80994980-85df2680-8e0b-11ea-942c-749f26fddc90.png)
 
 # Data Source 
 
