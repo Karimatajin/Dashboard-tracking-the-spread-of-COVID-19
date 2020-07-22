@@ -9,3 +9,5 @@ The dashboard created shows the distribution of total confirmed cases including 
 # Data Source 
 
 This dashboard is using Johns Hopkins University repository https://github.com/CSSEGISandData/COVID-19 as data source
+
+Here's a link to my dashboard hosted on Heroku : https://covid-19-coronavirus.herokuapp.com/
